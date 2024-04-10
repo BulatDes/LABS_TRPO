@@ -1,0 +1,42 @@
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5(Not doing)\bin\Debug\net6.0-windows\Laba_5.exe
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5(Not doing)\bin\Debug\net6.0-windows\Laba_5.deps.json
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5(Not doing)\bin\Debug\net6.0-windows\Laba_5.runtimeconfig.json
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5(Not doing)\bin\Debug\net6.0-windows\Laba_5.dll
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5(Not doing)\bin\Debug\net6.0-windows\Laba_5.pdb
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5(Not doing)\obj\Debug\net6.0-windows\Laba_5.csproj.AssemblyReference.cache
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5(Not doing)\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5(Not doing)\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5(Not doing)\obj\Debug\net6.0-windows\Laba_5_MarkupCompile.cache
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5(Not doing)\obj\Debug\net6.0-windows\Laba_5_MarkupCompile.lref
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5(Not doing)\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5(Not doing)\obj\Debug\net6.0-windows\Laba_5.g.resources
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5(Not doing)\obj\Debug\net6.0-windows\Laba_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5(Not doing)\obj\Debug\net6.0-windows\Laba_5.AssemblyInfoInputs.cache
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5(Not doing)\obj\Debug\net6.0-windows\Laba_5.AssemblyInfo.cs
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5(Not doing)\obj\Debug\net6.0-windows\Laba_5.csproj.CoreCompileInputs.cache
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5(Not doing)\obj\Debug\net6.0-windows\Laba_5.dll
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5(Not doing)\obj\Debug\net6.0-windows\refint\Laba_5.dll
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5(Not doing)\obj\Debug\net6.0-windows\Laba_5.pdb
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5(Not doing)\obj\Debug\net6.0-windows\Laba_5.genruntimeconfig.cache
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5(Not doing)\obj\Debug\net6.0-windows\ref\Laba_5.dll
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5\bin\Debug\net6.0-windows\Laba_5.exe
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5\bin\Debug\net6.0-windows\Laba_5.deps.json
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5\bin\Debug\net6.0-windows\Laba_5.runtimeconfig.json
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5\bin\Debug\net6.0-windows\Laba_5.dll
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5\bin\Debug\net6.0-windows\Laba_5.pdb
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5\obj\Debug\net6.0-windows\Laba_5.csproj.AssemblyReference.cache
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5\obj\Debug\net6.0-windows\Laba_5_MarkupCompile.cache
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5\obj\Debug\net6.0-windows\Laba_5_MarkupCompile.lref
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5\obj\Debug\net6.0-windows\Laba_5.g.resources
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5\obj\Debug\net6.0-windows\Laba_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5\obj\Debug\net6.0-windows\Laba_5.AssemblyInfoInputs.cache
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5\obj\Debug\net6.0-windows\Laba_5.AssemblyInfo.cs
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5\obj\Debug\net6.0-windows\Laba_5.csproj.CoreCompileInputs.cache
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5\obj\Debug\net6.0-windows\Laba_5.dll
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5\obj\Debug\net6.0-windows\refint\Laba_5.dll
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5\obj\Debug\net6.0-windows\Laba_5.pdb
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5\obj\Debug\net6.0-windows\Laba_5.genruntimeconfig.cache
+C:\Users\aaaaa\Desktop\Лабораторные работы ТРПО\Laba_5\obj\Debug\net6.0-windows\ref\Laba_5.dll

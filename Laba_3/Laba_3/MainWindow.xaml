@@ -1,0 +1,55 @@
+﻿<Window x:Class="Laba_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Laba_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <Style TargetType="MenuItem">
+            <Setter Property="Background" Value="DarkCyan"/>
+            <Setter Property="Foreground" Value="White"/>
+        </Style>
+        <Style TargetType="ToolBar">
+            <Setter Property="Background" Value="IndianRed"/>
+        </Style>
+        <Style TargetType="Menu">
+            <Setter Property="Background" Value="Black"/>
+            <Setter Property="BorderBrush" Value="Navy"/>
+            <Setter Property="BorderThickness" Value="1"/>
+        </Style>
+    </Window.Resources>
+    <Canvas>
+        <Menu Background="White" BorderBrush="Navy"  Canvas.Top="1" Name="menu" HorizontalAlignment="Left">
+            <MenuItem Header="_Выбрать цвет" MouseEnter="MenuItem_MouseEnter">
+                <MenuItem Header="_Синий" Click="MenuItem_Click" x:Name="ColorBlue" MouseEnter="ColorBlue_MouseEnter"/>
+                <MenuItem Header="_Белый" Click="MenuItem_Click_1" x:Name="Clean" MouseEnter="Clean_MouseEnter"/>
+                <Separator/>
+                <MenuItem Header="_Закрыть" Click="MenuItem_Click_2" x:Name="Close" MouseEnter="Close_MouseEnter"/>
+            </MenuItem>
+            <MenuItem Header="О Разработчике" Click="MenuItem_Click_3" x:Name="AboutProgrammer" MouseEnter="AboutProgrammer_MouseEnter"/>
+            <MenuItem Header="Графический редактор" Name="GraphRed" Click="GraphRed_Click" MouseEnter="GraphRed_MouseEnter"/>
+        </Menu>
+        <ToolBar Canvas.Right="-5" Canvas.Top="15" HorizontalAlignment="Right" Margin="0,-15,15,0">
+            <Button Click="MenuItem_Click" MouseEnter="ColorBlue_MouseEnter">
+                <Image Source="https://w7.pngwing.com/pngs/144/944/png-transparent-button-blue-button-miscellaneous-blue-sphere.png" Width="15" Height="15"/>
+            </Button>
+            <Separator/>
+            <Button  Click="MenuItem_Click_1" MouseEnter="Clean_MouseEnter">
+                <Image Source="https://w7.pngwing.com/pngs/742/433/png-transparent-circle-sphere-oval-material-buttons-miscellaneous-sphere-material-thumbnail.png" Width="12" Height="12"/>
+            </Button>
+            <Separator/>
+            <Button Click="MenuItem_Click_2" MouseEnter="Close_MouseEnter">
+                <Image Source="https://cdn-icons-png.flaticon.com/512/70/70091.png" Width="15" Height="15"/>
+            </Button>
+            <Separator/>
+            <Button  Click="MenuItem_Click_3" MouseEnter="AboutProgrammer_MouseEnter">
+                <Image Source="https://cdn-icons-png.flaticon.com/512/8/8201.png" Width="15" Height="15"/>
+            </Button>
+        </ToolBar>
+        <StatusBar Height="25" Canvas.Bottom="1" Width="800">
+            <TextBlock x:Name="Status"/>
+        </StatusBar>
+    </Canvas>
+</Window>
